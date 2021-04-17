@@ -1,11 +1,33 @@
 # MyHunter-ShootingGame-15-29-November
 
+![alt text](https://i.ibb.co/48Jqx72/hunter-titlescreen.png)
+
+![alt text](https://i.ibb.co/wYJCSkT/hunter-gameplay.png)
+
 This project is a shooting game where the player has to protect Earth from 100 asteroîds by clicking on them.
 
-Install the library to launch the program with: "sudo apt-get install libcsfml-dev libcsfml-doc"
+### Linux Installer
 
-To launch the game, use "./my_hunter"
+Clone the repository:
 
-For more options, use "./my_hunter -h"
+    git clone https://github.com/MayaHill/MyHunter-ShootingGame-15-29-November.git
 
-(Example: "./my_hunter")
+Install CSFML
+
+    sudo apt-get install libcsfml-dev libcsfml-doc
+
+To compile:
+
+    make
+
+Update:
+
+    git pull && make re
+
+## How to play
+
+    ./my_hunter -h
+
+## Launch the game
+
+    ./my_hunter
