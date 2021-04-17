@@ -1,8 +1,8 @@
 # MyHunter-ShootingGame-15-29-November
 
-![alt text](https://i.ibb.co/48Jqx72/hunter-titlescreen.png)
+![alt text](https://i.postimg.cc/NKDJVMGY/hunter-titlescreen.png)
 
-![alt text](https://i.ibb.co/wYJCSkT/hunter-gameplay.png)
+![alt text](https://i.postimg.cc/CRSrmDgm/hunter-gameplay.png)
 
 This project is a shooting game where the player has to protect Earth from 100 asteroîds by clicking on them.
 
