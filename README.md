@@ -1,4 +1,4 @@
-# MyHunter-ShootingGame-15-29-November
+# MyHunter-ShootingGame
 
 <img src="https://i.postimg.cc/CLY5y5v4/hunter-titlescreen.png" alt="alt text">
 
