@@ -10,7 +10,7 @@ This project is a shooting game where the player has to protect Earth from 100 a
 
 Clone the repository:
 
-    git clone https://github.com/MayaHill/MyHunter-ShootingGame-15-29-November.git
+    git clone https://github.com/MayaHill/MyHunter-ShootingGame.git
 
 Install CSFML
 
